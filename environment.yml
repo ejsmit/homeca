@@ -1,0 +1,7 @@
+name: homeca
+dependencies:
+- python=3
+- cryptography
+- pylint
+- pip
+- setuptools
